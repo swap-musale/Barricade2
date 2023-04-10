@@ -65,7 +65,7 @@ dependencies {
     implementation("com.squareup.okhttp3:okhttp")
     implementation("com.squareup.okhttp3:logging-interceptor")
 
-    implementation "com.google.accompanist:accompanist-systemuicontroller:0.24.3-alpha"
+    implementation "com.google.accompanist:accompanist-systemuicontroller:0.31.0-alpha"
 }
 
 apply from: '../publish-helper.gradle'
